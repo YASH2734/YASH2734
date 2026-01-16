@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Yash
 
-<!--
-**YASH2734/YASH2734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Web Developer | 🚀 Learning & Building Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔥 Passionate about Web Development
+- 🌱 Currently learning **PHP, MySQL, JavaScript**
+- 🛠️ Interested in **Backend Development & Database**
+- 🎯 Goal: Become a skilled Full Stack Developer
+- 📌 I love creating simple and useful web projects
+
+---
+
+## 🧑‍💻 Skills
+### ✅ Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### ✅ Backend
+- PHP
+
+### ✅ Database
+- MySQL
+
+### ✅ Tools
+- Git & GitHub
+- VS Code + Sublime Text
+- XAMPP
+
+---
+
+## 📂 My Projects
+- 🔹 Login & Signup System(Webpage) (PHP + MySQL)
+- 🔹 Student Registration Form
+- 🔹 Image Upload System
+- 🔹 simple website  
+---
+
+## 📈 GitHub Stats
+⭐ Always improving my coding skills  
+📌 Uploading projects regularly  
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username
+- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/your-linkedin
+---
+
+## 💡 Quote
+> "Never Give UP! 🚀"
+---
+
+⭐ Thank you for visiting my profile!
+
