@@ -46,9 +46,9 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/YASH2734
+- Email: yashparit165@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yash-parit-9652062a4?
 ---
 
 ## 💡 Quote
